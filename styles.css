@@ -35,6 +35,16 @@
 		background-color: #cdb2c5;
 }
 
+/** Light/Dark mode */
+#light_mode {
+    background-color: white;
+    color: black;
+}
+#dark_mode {
+    background-color: black;
+    color: white;
+}
+
 /* Banner */
 .banner {
 	display: flex;
